@@ -69,3 +69,22 @@ Check off each question when it's resolved and update the constitution according
 
 - [ ] **Q18 — Pixiset + portfolio site workflow**
   Portfolio site = attraction (show work, get inquiry). Pixiset = delivery (galleries, sales, downloads). Define how clients move between them.
+
+---
+
+## Audience & Strategy
+
+- [ ] **Q19 — Public identity statement**
+  Isaac has a clear internal identity (constitution Section 0) but no 3-sentence version a stranger can find in 10 seconds. Draft the public version: who you are, what you photograph, and why someone should care. Apply it consistently to Instagram bio, portfolio site homepage, and the opening of the standard client proposal. This is the highest-leverage missing piece in the repo.
+
+- [ ] **Q20 — Editorial target list**
+  Identify 3–5 local and regional outlets in Southern California that publish civic/documentary photography (protest, labor, community organizing). Research each outlet's pitch or submission process. Set a target date for a first submission. See `strategy/audience-and-sustainability.md` Section 5.
+
+- [ ] **Q21 — Shoot-type emotional cost taxonomy**
+  Build a simple High / Medium / Lower taxonomy of shoot types by emotional and physical intensity — e.g., High (protest, labor action, grief/illness contexts), Medium (weddings, celebrations, full-day events), Lower (headshots, portraits, commercial). Use this taxonomy to inform scheduling decisions alongside pricing. Answer this before accepting retainer clients or booking more than 2 weeks out.
+
+- [ ] **Q22 — Calendar protection minimums**
+  Decide: what is the maximum number of shoot days per month that is sustainable? How many days per month are protected from booking by default? Define these as hard rules, not preferences. Answer this alongside Q21 — the two questions are linked.
+
+- [ ] **Q23 — Role of photography in Isaac's life**
+  The most upstream question in the repo. Options: (a) secondary income alongside data analytics / civic tech, (b) primary practice that eventually equals or replaces the day job, (c) start as (a), evaluate for (b) at a defined checkpoint date. If choosing (c), set the checkpoint date now. The answer governs investment decisions across the entire repo — gear, platforms, marketing, editorial priority. Do not make major investments before answering this.

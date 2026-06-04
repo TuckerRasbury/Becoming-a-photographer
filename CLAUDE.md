@@ -6,6 +6,11 @@ This repository belongs to Isaac Rodriguez / ITR Photography. It documents the b
 
 **`constitution/business-constitution.md`** is the authoritative reference for all pricing, licensing, contract principles, and business logic. Read it before generating any proposal, contract, invoice, or client-facing content.
 
+**`strategy/audience-and-sustainability.md`** is the strategic layer — audience-building orientation, theory of discovery, editorial path, and sustainability constraints. Read it when:
+- Building any client-facing copy (bio, proposal headers, pitch materials)
+- Advising on platform or gear investment decisions
+- Suggesting shoot cadence or scheduling
+
 Key rules from the constitution that apply to all AI work here:
 
 - All pricing derives from the **$200/hr base hourly rate**
@@ -16,11 +21,15 @@ Key rules from the constitution that apply to all AI work here:
 - The **community rate** is a scope adjustment, not a charity discount — do not frame it as a discount in client-facing language
 - Items marked **DECIDED** in the constitution are final — do not suggest alternatives unless Isaac explicitly asks
 - Items marked **OPEN** in `open-questions.md` are unresolved — surface them as questions, do not invent answers
+- **Q23** (the role of photography in Isaac's life) is the most upstream open question in the repo — do not make recommendations about investment scale, marketing aggressiveness, or platform spending without surfacing it if it remains open
+- **High-intensity shoot types** (protest, labor action, grief/illness contexts) carry sustainability implications — do not suggest back-to-back scheduling without flagging Q21 and Q22 if those are still open
+- **When drafting any public-facing copy** (bio, proposal, pitch) — check `strategy/audience-and-sustainability.md` Section 4 for the identity statement. Do not invent one if Q19 is still open
 
 ## Repo Structure
 
 ```
 constitution/         The pricing & business constitution (source of truth)
+strategy/             Audience-building, discovery, editorial path, sustainability
 workflows/            Step-by-step operational guides for each phase of a project
 templates/            Contract, proposal, brief, and invoice stubs (to be built)
 open-questions.md     Tracker for all unresolved decisions from the constitution
