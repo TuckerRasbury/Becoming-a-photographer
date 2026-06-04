@@ -116,23 +116,28 @@ Without a hard rule, high-demand periods will fill every available day. Good int
 
 ---
 
-## 7. The Guiding Question — OPEN (Q23)
+## 7. The Guiding Question — DECIDED (Q23 — June 4, 2026)
 
-This is the most upstream open question in the entire repo. Everything in this document — how aggressively to build audience, whether editorial is a priority or a nice-to-have, how much to invest in gear and platforms — is downstream of the answer.
+**Answer: Secondary income — fun, complementary to the primary career, intentionally bounded.**
 
-**The question:** What kind of life does Isaac want photography to be in?
-- **(a) Secondary income** alongside data analytics and civic tech — intentionally bounded, not a primary identity
-- **(b) Primary practice** that eventually equals or replaces the day job — requires aggressive investment in audience, editorial, and gear
-- **(c) Evolving** — start as (a), evaluate for (b) at a defined checkpoint date
+Photography does not carry the pressure of being the primary livelihood. It stays enjoyable precisely because it doesn't have to. This is option (a): secondary income alongside data analytics and civic tech, not trending toward replacing either.
 
-**What the answer governs:**
-- How much time to invest in audience-building infrastructure (Instagram, editorial pitch work)
-- Whether new platform spending (HoneyBook, Adobe All Apps, Format/Cargo) is justified now or premature
-- The sustainable monthly shoot ceiling in Q22
-- How quickly to resolve Q20 (editorial path) as a priority
+**What this means now — downstream governance:**
 
-**What this means in practice:**
-- This question does not need to be answered today
-- It should be answered before making major investment decisions — new gear, platform subscriptions, or marketing spend
-- See Q23 in `open-questions.md`
-- Agents: do not make recommendations about investment scale, marketing aggressiveness, or platform spending without surfacing Q23 if it is still open
+| Question | Governed by Q23 answer |
+|----------|------------------------|
+| Q1 — Adobe tier | Photography Plan (~$20/mo) is sufficient. All Apps is overkill at this scale. |
+| Q15 — Invoicing platform | HoneyBook/Dubsado are CRM-heavy for secondary income volume. Hold off. Simple invoicing until volume makes a CRM genuinely necessary. |
+| Q22 — Calendar ceiling | Set a conservative limit. Photography must stay enjoyable — it cannot expand to dominate the calendar or compete with the primary career. |
+| Q17 — Portfolio site | A clean, well-done Format or Cargo site at a basic tier is right. Do not over-invest in platform features. |
+| Q20 — Editorial path | Worth pursuing, but at a relaxed pace. When strong civic work exists, submit it. No aggressive pitching cadence required. |
+| Gear | Dream kit is a long-term aspiration, not an urgent investment. Current kit is sufficient for this scale. |
+| Marketing | No paid marketing spend. Word of mouth, existing community circles, and a consistent Instagram presence is the right pace. |
+
+**What does not change:**
+- Copyright, RAW file policy, and licensing principles apply regardless of income tier
+- Q19 (identity statement) — still the highest-leverage next step; applies at any scale
+- Q21 (shoot-type taxonomy) — sustainability still matters; secondary income does not mean unlimited availability
+- Contract language (Q6–Q13) — still needed before commercial clients
+
+**For agents:** Q23 is resolved. When advising on platform investment, gear spending, or marketing scale, use this answer as the governing constraint — keep it simple, keep it sustainable, keep it fun.
