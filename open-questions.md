@@ -86,5 +86,6 @@ Check off each question when it's resolved and update the constitution according
 - [ ] **Q22 — Calendar protection minimums**
   Decide: what is the maximum number of shoot days per month that is sustainable? How many days per month are protected from booking by default? Define these as hard rules, not preferences. Answer this alongside Q21 — the two questions are linked.
 
-- [ ] **Q23 — Role of photography in Isaac's life**
-  The most upstream question in the repo. Options: (a) secondary income alongside data analytics / civic tech, (b) primary practice that eventually equals or replaces the day job, (c) start as (a), evaluate for (b) at a defined checkpoint date. If choosing (c), set the checkpoint date now. The answer governs investment decisions across the entire repo — gear, platforms, marketing, editorial priority. Do not make major investments before answering this.
+- [x] **Q23 — Role of photography in Isaac's life** *(DECIDED — June 4, 2026)*
+  **Answer: Secondary income — fun, complementary to the data analytics / civic tech career, intentionally bounded.**
+  Photography stays enjoyable because it doesn't carry the pressure of being the primary livelihood. This governs investment scale across the repo: keep platforms simple, set a conservative monthly ceiling, pursue editorial at a relaxed pace. See `strategy/audience-and-sustainability.md` Section 7 for full downstream implications.
