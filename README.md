@@ -1,6 +1,6 @@
 # ITR Photography — Business & Workflows
 
-Isaac Rodriguez / ITR Photography. Documentary and street photographer based in Southern California.
+Isaac Tucker-Rasbury / ITR Photography. Documentary and street photographer based in Southern California.
 
 > "I photograph life as I love it and live it — from the streets of LA to labor rallies to everywhere I find myself paying attention."
 

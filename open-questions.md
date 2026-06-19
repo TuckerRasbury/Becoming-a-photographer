@@ -74,8 +74,11 @@ Check off each question when it's resolved and update the constitution according
 
 ## Audience & Strategy
 
-- [ ] **Q19 — Public identity statement**
-  Isaac has a clear internal identity (constitution Section 0) but no 3-sentence version a stranger can find in 10 seconds. Draft the public version: who you are, what you photograph, and why someone should care. Apply it consistently to Instagram bio, portfolio site homepage, and the opening of the standard client proposal. This is the highest-leverage missing piece in the repo.
+- [x] **Q19 — Public identity statement** *(DECIDED — June 4, 2026)*
+  **Answer:**
+  > Isaac Tucker-Rasbury is a Los Angeles documentary and street photographer. He photographs protests, labor rallies, family milestones, and the daily life of Southern California — the moments that deserve to be remembered. If you're a person, family, or local organization that wants a serious photographer without the production company price tag, this is the work.
+
+  Apply consistently to: Instagram bio, portfolio site homepage, and the opening paragraph of the standard client proposal. See `strategy/audience-and-sustainability.md` Section 4.
 
 - [ ] **Q20 — Editorial target list**
   Identify 3–5 local and regional outlets in Southern California that publish civic/documentary photography (protest, labor, community organizing). Research each outlet's pitch or submission process. Set a target date for a first submission. See `strategy/audience-and-sustainability.md` Section 5.

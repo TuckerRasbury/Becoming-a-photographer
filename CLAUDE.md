@@ -1,6 +1,6 @@
 # ITR Photography — Claude Agent Instructions
 
-This repository belongs to Isaac Rodriguez / ITR Photography. It documents the business rules, pricing logic, workflows, and open questions for a documentary and street photography practice based in Southern California.
+This repository belongs to Isaac Tucker-Rasbury / ITR Photography. It documents the business rules, pricing logic, workflows, and open questions for a documentary and street photography practice based in Southern California.
 
 ## Source of Truth
 

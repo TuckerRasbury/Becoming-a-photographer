@@ -59,21 +59,22 @@ The open questions raised here are tracked in `open-questions.md` (Q19–Q23).
 
 ---
 
-## 4. The Public Identity Gap — OPEN (Q19)
+## 4. The Public Identity Gap — DECIDED (Q19 — June 4, 2026)
 
-**Principle:** Isaac has a clear internal identity — documented in Section 0 of the constitution. It does not yet exist anywhere a stranger can encounter it in 10 seconds. That is the single highest-leverage missing piece.
+**Principle:** Isaac has a clear internal identity — documented in Section 0 of the constitution. It did not exist anywhere a stranger could encounter it in 10 seconds. That gap is now closed.
 
-The gap: the constitution's identity statement is a paragraph written for an AI agent. What is the 3-sentence version for:
+**The public identity statement:**
+
+> Isaac Tucker-Rasbury is a Los Angeles documentary and street photographer. He photographs protests, labor rallies, family milestones, and the daily life of Southern California — the moments that deserve to be remembered. If you're a person, family, or local organization that wants a serious photographer without the production company price tag, this is the work.
+
+**Apply consistently to:**
 - Instagram bio
 - Portfolio site homepage headline
-- The opening of the standard client proposal
-
-These should all say the same thing in the same register. A stranger who hits any of these surfaces should immediately understand who Isaac is, what he photographs, and why they should care.
+- The opening paragraph of the standard client proposal
 
 **What this means in practice:**
-- See Q19 in `open-questions.md` — drafting this statement is the first task in this section
-- Until Q19 is answered, no new platform setup, site migration, or proposal template should be finalized
-- Agents: when drafting any public-facing copy, check this section for the identity statement — do not invent one if Q19 is still open
+- This statement is now the canonical public-facing identity — use it verbatim or near-verbatim across all three surfaces above
+- Agents: when drafting any public-facing copy (bio, proposal, pitch), use this statement as the foundation — do not invent a different one
 
 ---
 

@@ -2,7 +2,7 @@
 
 **The single source of truth for pricing logic, contract principles, licensing framework, definitions, and open questions.**
 
-*Version 1.0 · June 3, 2026 · Author: Isaac Rodriguez · Location: Los Angeles / Southern California*
+*Version 1.0 · June 3, 2026 · Author: Isaac Tucker-Rasbury · Location: Los Angeles / Southern California*
 
 This document is intended to serve as a constitutional reference — for the photographer, for future AI agents working on ITR Photography systems, and for any collaborator who needs to understand the pricing and business logic behind this practice. It is structured so that both humans and machines can parse it clearly.
 
@@ -68,7 +68,7 @@ These definitions apply throughout this document and in all ITR Photography cont
 | **Rush delivery** | Expedited post-production turnaround requested by the client. Subject to a surcharge applied to the post-production fee. See Section 2.6 for tier definitions. |
 | **Revision round** | One complete cycle of client feedback — collected on a recorded call — followed by Isaac's edits based on that feedback. Two rounds are included in the standard post-production fee. Additional rounds are $100 each. |
 | **Creative discretion** | Isaac's retained right to decline revision requests that conflict with the artistic intent, narrative, or editorial integrity of the work. This is not arbitrary — it is a professional protection that ensures the work reflects Isaac's documented creative identity. |
-| **Copyright** | Isaac Rodriguez / ITR Photography retains full copyright on all images at all times. Copyright never transfers to the client. Clients receive a license to use images, not ownership. |
+| **Copyright** | Isaac Tucker-Rasbury / ITR Photography retains full copyright on all images at all times. Copyright never transfers to the client. Clients receive a license to use images, not ownership. |
 | **License / usage rights** | A defined permission granted to a client to use specific images for specific purposes, platforms, durations, and geographies. Separate from and additive to the creative fee. All licenses are non-exclusive unless otherwise negotiated and priced accordingly. |
 | **Change order** | A written request from the client to expand the scope of their license after the original agreement. Change orders trigger a new licensing fee calculation based on the expanded use. Isaac is not obligated to approve all change orders. |
 | **Deposit** | A partial payment made at the time of booking to secure a date on Isaac's calendar. Currently structured as nonrefundable. Deposit size determines the discount applied to the creative fee. |
@@ -229,7 +229,7 @@ These are the non-negotiable principles that must be expressed in all ITR Photog
 | Principle | What it means in practice |
 |-----------|--------------------------|
 | Nonrefundable deposit | All deposits held at cancellation regardless of timing. No exceptions. |
-| Copyright retention | Copyright stays with Isaac Rodriguez / ITR Photography at all times without exception. |
+| Copyright retention | Copyright stays with Isaac Tucker-Rasbury / ITR Photography at all times without exception. |
 | No RAW delivery | RAW files are never delivered, shown, or shared with clients for any reason. |
 | Recorded call consent | Clients consent to call recording as a condition of the revision feedback process. |
 | Creative discretion | Isaac may decline revision requests that conflict with the artistic intent of the work. |
